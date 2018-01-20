@@ -8,7 +8,7 @@ Uber for car repair. For people who need help with their car right now.
 We plan on making a web app, and possibly extending it to a mobile app.
 
 ## Workflow
-- [ ] Brainstorm features
+- [x] Brainstorm features
 - [ ] Coming up with a rough software architecture
 - [ ] Choosing a framework
 - [ ] Start with a boilerplate
