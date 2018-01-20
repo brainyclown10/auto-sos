@@ -3,7 +3,7 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-
+'use strict';
 import React, { Component } from 'react';
 import {
   Platform,
@@ -31,7 +31,7 @@ export default class App extends Component<{}> {
         </Text>
         <Text style={styles.instructions}>
           {instructions}
-          </Text> 
+          </Text>
       </View>
     );
   }
