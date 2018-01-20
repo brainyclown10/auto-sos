@@ -5,11 +5,13 @@
  */
 
 import React, { Component } from 'react';
+//import { Button} from 'react-native-elements';
 import {
   Platform,
   StyleSheet,
   Text,
-  View
+  View,
+ // Alert
 } from 'react-native';
 
 const instructions = Platform.select({
@@ -24,7 +26,7 @@ export default class App extends Component<{}> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to React Native! Woohoo
         </Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
