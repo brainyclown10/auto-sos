@@ -20,4 +20,4 @@ We plan on making a web app, and possibly extending it to a mobile app.
 
 Put an `x` between `[ ]` the braces, like this `[x]` to check off!
 
-Github Page link: brainyclown.github.io/auto-sos
+Github Page link: https://brainyclown10.github.io/auto-sos
