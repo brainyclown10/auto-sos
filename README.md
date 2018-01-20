@@ -19,3 +19,5 @@ We plan on making a web app, and possibly extending it to a mobile app.
 - [ ] Submit!
 
 Put an `x` between `[ ]` the braces, like this `[x]` to check off!
+
+Github Page link: brainyclown.github.io/auto-sos
