@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+h2 {
+    text-align: left;
+    font-size:24px
+}
+
+p {
+    font-style: normal;
+    font-size: 16px;
+}
+
+body {
+  background: linear-gradient(to right, #66ccff, #1A75FF);
+}
