@@ -2,14 +2,14 @@
 SpartaHack IV project.
 
 ## Idea
-Uber for car repair. For people who need help with their car right now.
+Uber for car repair. For people who need help with their car right now (booth people who want to offer help and those in need of help).
 
 ## Architecture
-We decided to move on with React Native (yay!). This decision is informed
-by the segment of the people we are targetting. An webapp for people stuck
-in the middle of nowhere needing help with their car would be more likely
-to have access to a mobile phone than a full-fledged laptop. Using RN also
-shorten the development time. 
+We decided to move on with React Native. This decision was informed
+by the segment of the people we are targeting. An mobile app for people stuck
+in the middle of nowhere would be more helpful sincen they would be more likely
+to have access to a mobile phone with Internet access than a laptop or desktop computer. Using React Native also
+shortens our development time. 
 
 ## Workflow
 - [x] Brainstorm features
