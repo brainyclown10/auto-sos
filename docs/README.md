@@ -23,5 +23,3 @@ shortens our development time.
 - [ ] Submit!
 
 Put an `x` between `[ ]` the braces, like this `[x]` to check off!
-
-Github Page link: https://brainyclown10.github.io/auto-sos
