@@ -3,7 +3,7 @@ import {
     Text, 
     View, 
     Button
-} from 'react-native';
+} from 'native-base';
 
 export default class Login extends React.Component {
     render (){
