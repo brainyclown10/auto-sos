@@ -14,7 +14,7 @@ export default class Login extends React.Component {
                     title="Login"
                     color="black"
                 >
-                Please Log In
+                <Text> Log In  </Text>
                 </Button>
             </View>
             
