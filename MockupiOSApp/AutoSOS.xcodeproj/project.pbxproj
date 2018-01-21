@@ -27,6 +27,8 @@
 		A762AE142014102D00AF6E8A /* star-rating-rate-movie-review-cinema-stars-256.png in Resources */ = {isa = PBXBuildFile; fileRef = A762AE132014102D00AF6E8A /* star-rating-rate-movie-review-cinema-stars-256.png */; };
 		A762AE162014103300AF6E8A /* Untitled-50-256-2.png in Resources */ = {isa = PBXBuildFile; fileRef = A762AE152014103300AF6E8A /* Untitled-50-256-2.png */; };
 		A762AE182014103F00AF6E8A /* Uber-trip_map.png in Resources */ = {isa = PBXBuildFile; fileRef = A762AE172014103F00AF6E8A /* Uber-trip_map.png */; };
+		A762AE1A2014166300AF6E8A /* 149449.png in Resources */ = {isa = PBXBuildFile; fileRef = A762AE192014166300AF6E8A /* 149449.png */; };
+		A762AE1C201416C800AF6E8A /* Badges_Votes_no_star_rating-25-256.png in Resources */ = {isa = PBXBuildFile; fileRef = A762AE1B201416C800AF6E8A /* Badges_Votes_no_star_rating-25-256.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +75,8 @@
 		A762AE132014102D00AF6E8A /* star-rating-rate-movie-review-cinema-stars-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "star-rating-rate-movie-review-cinema-stars-256.png"; path = "../../../../../Downloads/star-rating-rate-movie-review-cinema-stars-256.png"; sourceTree = "<group>"; };
 		A762AE152014103300AF6E8A /* Untitled-50-256-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Untitled-50-256-2.png"; path = "../../../../../Downloads/Untitled-50-256-2.png"; sourceTree = "<group>"; };
 		A762AE172014103F00AF6E8A /* Uber-trip_map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Uber-trip_map.png"; path = "../../../../../Downloads/Uber-trip_map.png"; sourceTree = "<group>"; };
+		A762AE192014166300AF6E8A /* 149449.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 149449.png; path = ../../../../../Downloads/149449.png; sourceTree = "<group>"; };
+		A762AE1B201416C800AF6E8A /* Badges_Votes_no_star_rating-25-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Badges_Votes_no_star_rating-25-256.png"; path = "../../../../../Downloads/Badges_Votes_no_star_rating-25-256.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +129,8 @@
 		A70568C22013490E0029AFD7 /* AutoSOS */ = {
 			isa = PBXGroup;
 			children = (
+				A762AE1B201416C800AF6E8A /* Badges_Votes_no_star_rating-25-256.png */,
+				A762AE192014166300AF6E8A /* 149449.png */,
 				A762AE0D2014007E00AF6E8A /* images-2.png */,
 				A762AE0F2014101A00AF6E8A /* images-2.png */,
 				A762AE0B2013F9F400AF6E8A /* star-rating-rate-movie-review-cinema-stars-256.png */,
@@ -286,9 +292,11 @@
 				A762AE0C2013F9F400AF6E8A /* star-rating-rate-movie-review-cinema-stars-256.png in Resources */,
 				A762AE182014103F00AF6E8A /* Uber-trip_map.png in Resources */,
 				A70568CF2013490F0029AFD7 /* Assets.xcassets in Resources */,
+				A762AE1A2014166300AF6E8A /* 149449.png in Resources */,
 				A762AE0A2013F7C500AF6E8A /* IMG_5343.JPG in Resources */,
 				A762AE0E2014007E00AF6E8A /* images-2.png in Resources */,
 				A70568CD2013490F0029AFD7 /* Main.storyboard in Resources */,
+				A762AE1C201416C800AF6E8A /* Badges_Votes_no_star_rating-25-256.png in Resources */,
 				A762AE162014103300AF6E8A /* Untitled-50-256-2.png in Resources */,
 				A762AE142014102D00AF6E8A /* star-rating-rate-movie-review-cinema-stars-256.png in Resources */,
 				A762AE082013D03300AF6E8A /* Untitled-50-256-2.png in Resources */,
